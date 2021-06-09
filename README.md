@@ -9,5 +9,8 @@ https://amanita19.github.io/Lab10/
 ## Explanation 
 For the single column secondOptimize.html the only difference is that we changed the stylsheet to secondOptimizestyle.css, which is a clone of style.css in all ways except for the fact that the `.double-column > journal-entry` and `.double-column` selectors (and all of their styles) were deleted.
 
+![](screenshots/Web capture_8-6-2021_19376_analytics.google.com.jpeg)
+
 ## Contributors
 Annie Dai, Jamshed Ashurov
+
